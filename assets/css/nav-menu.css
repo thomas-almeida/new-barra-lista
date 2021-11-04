@@ -1,0 +1,36 @@
+
+.nav-menu{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.nav-menu ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav-menu li{
+    display: inline;
+    margin: 10px;
+    padding: 10px;
+}
+
+.nav-menu a{
+    text-decoration: none;
+    color: black;
+    font-size: 12pt;
+}
+
+.nav-menu a:hover{
+ color: crimson;
+}
+
+#lp-button{
+    border: none;
+    background-color: crimson;
+    padding: 12px;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+}
