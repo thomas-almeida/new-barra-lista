@@ -1,36 +1,47 @@
-
-.nav-menu{
+.nav-menu {
     display: flex;
     justify-content: center;
-    padding: 20px;
+    align-items: center;
+    padding: 10px;
+    background-color: whitesmoke;
 }
 
-.nav-menu ul{
+.nav-menu ul {
     list-style-type: none;
     text-align: center;
 }
 
-.nav-menu li{
+.nav-menu li {
     display: inline;
-    margin: 10px;
+    margin: 15px;
     padding: 10px;
 }
 
-.nav-menu a{
+.nav-menu a {
     text-decoration: none;
     color: black;
-    font-size: 12pt;
+    font-size: 14pt;
 }
 
-.nav-menu a:hover{
- color: crimson;
+.nav-menu a:hover {
+    color: crimson;
 }
 
-#lp-button{
+#lp-button {
     border: none;
     background-color: crimson;
     padding: 12px;
     border-radius: 6px;
     color: white;
     cursor: pointer;
+}
+
+#logo-home {
+    width: 50px;
+}
+
+#flex-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

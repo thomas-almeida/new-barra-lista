@@ -1,7 +1,6 @@
-
 @import url('nav-menu.css');
-
-*{
+@import url('show-slider.css');
+* {
     margin: 0%;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
