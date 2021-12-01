@@ -1,0 +1,34 @@
+.categoria-destaque{
+
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.categoria-destaque-field{
+
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.cat-destaq{
+    border: 3px solid rgba(51, 51, 51, 0.159) ;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 400px;
+    display: flex;
+}
+
+.cat-destaq img{
+
+    margin: 10px;
+    margin-right: 15px;
+    width: 100px;
+}
+
+.cat-destaq a{
+    text-decoration: none;
+    color: rgb(0, 128, 255);
+}
