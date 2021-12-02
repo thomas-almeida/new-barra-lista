@@ -3,6 +3,7 @@
 @import url('categoria-destaque.css');
 @import url('produtos-relacionados.css');
 @import url('galeria-produtos.css');
+@import url('footer.css');
 * {
     margin: 0%;
     padding: 0;
