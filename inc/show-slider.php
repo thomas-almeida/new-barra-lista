@@ -1,4 +1,4 @@
-<div class="show-slider">
+<div id="animated-div" class="show-slider">
 
     <div class="slider-info">
 
