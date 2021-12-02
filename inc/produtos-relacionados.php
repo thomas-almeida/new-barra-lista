@@ -35,7 +35,7 @@
             </section>
             <section class="prod-rel-img">
                 <section>
-                    <img src="assets/imagens/banners/mesa-industrial-1.png" alt="">
+                    <img src="assets/imagens/banners/mesa-industrial-2.png" alt="">
                     <section class="cta-field">
                         <a href="#">Saiba mais!</a>
                     </section>
@@ -54,7 +54,7 @@
             </section>
             <section class="prod-rel-img">
                 <section>
-                    <img src="assets/imagens/banners/mesa-industrial-1.png" alt="">
+                    <img src="assets/imagens/banners/mesa-industrial-2.png" alt="">
                     <section class="cta-field">
                         <a href="#">Saiba mais!</a>
                     </section>
