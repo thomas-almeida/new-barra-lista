@@ -12,7 +12,7 @@
                 <h2>Nome da categoria</h2>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos ducimus laborum volup.</p>
                 <br>
-                <a href="#">Saiba mais! >></a>
+                <a href="#">Saiba mais!</a>
             </section>
 
         </div>
@@ -27,7 +27,7 @@
                 <h2>Nome da categoria</h2>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos ducimus laborum volup.</p>
                 <br>
-                <a href="#">Saiba mais! >></a>
+                <a href="#">Saiba mais!</a>
             </section>
 
         </div>
@@ -42,7 +42,7 @@
                 <h2>Nome da categoria</h2>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos ducimus laborum volup.</p>
                 <br>
-                <a href="#">Saiba mais! >></a>
+                <a href="#">Saiba mais!</a>
             </section>
 
         </div>
