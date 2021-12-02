@@ -25,6 +25,7 @@
 .cat-destaq:hover {
     transform: scale(1.1);
     cursor: pointer;
+    box-shadow: 2px 2px 4px #2c2c2c65;
 }
 
 .cat-destaq img {

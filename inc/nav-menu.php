@@ -9,7 +9,7 @@
         <li class="nav-menu-item"><a href="#">Sobre Nós</a></li>
         <li>
             <button id="lp-button">
-                Gostaria de Participar?
+                Gostaria de Anunciar?
             </button>
         </li>
     </ul>

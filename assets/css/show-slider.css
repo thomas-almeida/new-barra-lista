@@ -31,6 +31,7 @@
 
 .side-right img:hover {
     transform: scale(1.2);
+    cursor: pointer;
 }
 
 .side-left h1 {
