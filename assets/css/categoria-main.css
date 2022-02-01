@@ -1,0 +1,26 @@
+.categoria-head {
+    background-color: rgba(238, 238, 238, 0.508);
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.main-info {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-info h1 {
+    font-size: 2.9rem;
+    margin: 10px;
+    margin-left: 0;
+}
+
+.main-info p {
+    font-size: 1.4rem;
+    text-align: justify;
+    width: 85%;
+    line-height: 28px;
+}

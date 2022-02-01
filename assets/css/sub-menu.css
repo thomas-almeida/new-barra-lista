@@ -1,0 +1,27 @@
+.dropdown-child {
+    position: absolute;
+    z-index: 0;
+    left: 42%;
+    top: 55px;
+    display: none;
+    background-color: #161616;
+    width: 350px;
+    text-align: left;
+    border-radius: 10px;
+    box-shadow: 1px 2px 4px #333;
+}
+
+.dropdown-child a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: block;
+}
+
+.hover-list:hover .dropdown-child {
+    display: block;
+}
+
+.hover2:hover {
+    color: crimson;
+}
